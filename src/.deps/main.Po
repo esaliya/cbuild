@@ -1,0 +1,3 @@
+main.o: main.cc helloworld.h
+
+helloworld.h:
